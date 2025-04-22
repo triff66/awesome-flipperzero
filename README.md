@@ -1,7 +1,7 @@
 <hr>
 
 <a href="https://github.com/djsime1/awesome-flipperzero">
-  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
+  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="custom x Flipper Zero">
 </a>
 
 <hr>
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
     <img src="https://img.shields.io/badge/Approved%20by-Lurat-brightgreen" alt="Approved by Lurat" height=24 title="Lurat is the name of my Flipper">
     <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
+    <img src="https://img.shields.io/badge/all-bands-subghz-code-grabber
   </a>
 </h3>
 
